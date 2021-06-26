@@ -1,0 +1,10 @@
+#
+# svn propset svn:ignore -R -F .svnignore .
+#
+.classpath
+.project
+.settings
+target
+log
+.metadata
+.recommenders
